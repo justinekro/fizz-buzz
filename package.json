@@ -1,0 +1,19 @@
+{
+  "name": "fizz-buzz",
+  "version": "1.0.0",
+  "description": "FizzBuzz Kata",
+  "main": "fizz_buzz.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justinekro/fizz-buzz.git"
+  },
+  "author": "justinekro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justinekro/fizz-buzz/issues"
+  },
+  "homepage": "https://github.com/justinekro/fizz-buzz#readme"
+}
