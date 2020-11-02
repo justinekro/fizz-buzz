@@ -4,7 +4,7 @@
   "description": "FizzBuzz Kata",
   "main": "fizz_buzz.js",
   "scripts": {
-    "test": "test"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/justinekro/fizz-buzz/issues"
   },
-  "homepage": "https://github.com/justinekro/fizz-buzz#readme"
+  "homepage": "https://github.com/justinekro/fizz-buzz#readme",
+  "devDependencies": {
+    "jest": "^26.6.2"
+  }
 }
