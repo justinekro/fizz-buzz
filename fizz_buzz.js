@@ -11,9 +11,11 @@ function checkModulo(i) {
 		return "Fizz";
 	} else if (i % 5 === 0) {
 		return "Buzz";
+	} else {
+		return i;
 	}
 }
 
-// FizzBuzz();
+FizzBuzz();
 
 module.exports = checkModulo;
