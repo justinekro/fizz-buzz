@@ -9,3 +9,5 @@ Project will be written in JavaScript using test-driven development
 # Run
 
 To run the program, just run "node fizz_buzz.js" on your terminal, in the "fizz-buzz" folder :)
+
+[![Build Status](https://travis-ci.com/justinekro/fizz-buzz.svg?branch=master)](https://travis-ci.com/justinekro/fizz-buzz)
